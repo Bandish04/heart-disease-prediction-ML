@@ -72,8 +72,8 @@ The dataset name, source, features, and preprocessing steps should match the act
 - Online deployment through Streamlit Community Cloud.
 
 ## ScreenShots
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/6a88bd5c-94dc-486b-9434-41052560753a" />
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/71538bd5-a891-437b-86c5-134b93d94ddd" />
+<img width="2924" height="1572" alt="image" src="https://github.com/user-attachments/assets/2bc8af41-0116-4875-838a-eaf677f3dcee" />
+<img width="3164" height="1896" alt="image" src="https://github.com/user-attachments/assets/16a4e1ff-663c-4087-887b-7d4694d05f96" />
 
 
 
